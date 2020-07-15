@@ -1,0 +1,19 @@
+.navbar {
+    background-color: gainsboro;
+    font-family: sans-serif;
+}
+.purple {
+    color: rebeccapurple;
+    font-size: 20px;
+    font-weight: 1000;
+}
+section {
+    background-color: gainsboro;
+    color: rebeccapurple;
+    font-size: 16px;
+}
+body {
+    background-color: gainsboro;
+    color: rebeccapurple;
+    font-size: 16px;
+}
